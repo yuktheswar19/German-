@@ -16,7 +16,13 @@ Zuerst **muss** ich Deutsch lernen -  First i have to learn German
 Nachste Woche **fahre** ich nach Berlin -  Next week I drive to Berlin 
 
 
+Heute **lernen** wir Deutsch  -  Today we are learning german 
 
+
+Ich **will** ein Eis **essen** -  I want to eat an Ice cream 
+
+		wollen - want to 
+		wollen conjugated form for ich - **will** 
 
 
 
