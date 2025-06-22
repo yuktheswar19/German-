@@ -1,6 +1,9 @@
 **(The German sentence Structure)**
 
 
-b 
+ The **conjugated Verb** always goes in the second position 
+
+Example : 
+Ich fahre nach Berlin -  I drive to Berlin 
 
 
