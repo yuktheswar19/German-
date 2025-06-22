@@ -11,7 +11,11 @@ Wir **gehen** nach Hause -  We go home
 
 Dann **gehen** wir nach Hause -  Then we go home 
 
-Zuerst muss ich Deutsch lernen
+Zuerst **muss** ich Deutsch lernen -  First i have to learn German 
+
+Nachste Woche **fahre** ich nach Berlin -  Next week I drive to Berlin 
+
+
 
 
 
