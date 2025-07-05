@@ -13,4 +13,15 @@
 
 ## To answer how long i have been living 
 
-ich wohne seit eniem Monat in deut
+**Ich wohne seit eniem Monat in deutschland** - I am living in Germany since a month 
+
+**Ich wohne seit zwie Monat in deutschalnd** - I am living in Germany since 2 month 
+
+**Ich wohne seit neun Jahren in hyderabad** 
+
+
+## To answer where i live close to 
+
+
+**Ich wohne in der Nahe von** 
+	
