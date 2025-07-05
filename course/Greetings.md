@@ -34,7 +34,7 @@ wider - again    sehen - to see
 **nicht so gut** - Not so good 
 
 
-## Formal and informal ways to say someone how you are doing in return , when they ask you how you are doing :
+## Formal and informal ways to say someone how they are doing in  return , when they ask you how you are doing :
 
 **Und dir** - How about you ? - (informal)
 
