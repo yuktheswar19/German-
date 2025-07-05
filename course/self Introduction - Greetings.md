@@ -14,6 +14,21 @@
 **Wer sind Sie ?** - who are you ( formal )
 
 
+## To answer the question "How are you " depending upon the mood
+
+
+### When feeling good - 
+**(Sehr) gut !** - Super !
+
+### When feeling oka-ish - 
+**Es Geht** 
+**Geht so .**
+
+### When feeling not good  - 
+
+**Nicht so gut** - Not so good 
+**Schlecht** 
+
 
 
 
